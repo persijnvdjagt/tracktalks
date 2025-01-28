@@ -187,10 +187,6 @@ footer a {
   color: #ffffff;
 }
 
-footer a:hover {
-  color: #000000;
-}
-
 
 @media screen and (max-width: 1000px) {
     .introductie {
